@@ -18,7 +18,7 @@ API-ready for frontend integration
 
 Backend: Node.js 
 Framework: Express
-Database: MySQL / PostgreSQL
+Database: MySQL 
 Authentication: JWT
 API Style: REST
 
